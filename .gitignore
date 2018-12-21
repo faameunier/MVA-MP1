@@ -1,0 +1,5 @@
+mp1.py
+*.sublime*
+__pycache__
+.venv
+.ipynb_*
