@@ -1,5 +1,7 @@
-mp1.py
+mp1/mp1.py
 *.sublime*
 __pycache__
 .venv
 .ipynb_*
+mp2/data/*
+mp3/ffmpeg-4.1-win64-static/
